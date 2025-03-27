@@ -2,9 +2,8 @@
 
 К нашему приложению выполним POST запрос на разные БД:
 
-![image.png](attachment:9cae04c6-db7d-468a-bc6c-01e91f58b73e:image.png)
+![Uploading image.png…]()
 
-![image.png](attachment:f2c20722-8ed2-45e0-9cb6-bc60a4e95b5b:image.png)
 
 GET запросы:
 
