@@ -18,4 +18,5 @@ PUT запросы:
 
 
 DETELE запросы:
+
 ![image (4)](https://github.com/user-attachments/assets/94a9d5bd-863f-4bf1-b21a-7b4ff2491e18)
